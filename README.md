@@ -1,4 +1,4 @@
-# Corvus 💾 (A discontinued Discord Bot Project)#
+# Corvus 💾 (A discontinued Discord Bot Project)
 
 Corvus was initally started back in 2018 as a stand alone project. Later on I aquired another developer who helped with some of the enforcement commands and fun ones. However due to hosting costs and not having the knowledge suitable for continuing the bot it was stopped in the summer of 2019. 
 
