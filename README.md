@@ -1,8 +1,10 @@
-# Corvus-OLD-BOT-
-This was a discontiuned idea. Feel free to use the code but please credit me if you do. 
+# Corvus 💾 (A discontinued Discord Bot Project)#
 
+Corvus was initally started back in 2018 as a stand alone project. Later on I aquired another developer who helped with some of the enforcement commands and fun ones. However due to hosting costs and not having the knowledge suitable for continuing the bot it was stopped in the summer of 2019. 
 
-An old idea from 2018 finally created a year later. Due to server costs I couldn't keep up lol. The token has been taken out.
-Feel free to use the code but please credit me.
+# Usage and Rights
+By all means take anything you want from this repo, just be sure to credit me either on your website or botinfo command!
 
-https://www.youtube.com/channel/UCaPFSczIbVVmm9Y-7P3rs-Q?
+# What's next?
+
+I've recently started work on a new project called "kudos." which, following suit, is a Discord bot that will be similar to Corvus however with better optimization and handlers to make things easier and make workflow faster. If you'd like to read more about it you can have a look [here]("https://edenserver.xyz") under the "Side Projects" section.
